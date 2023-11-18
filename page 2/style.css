@@ -1,0 +1,373 @@
+.box {
+    width: 1441px;
+    height: 3009px;
+}
+
+.box .group {
+    position: fixed;
+    width: 1441px;
+    height: 3009px;
+    top: 0;
+    left: 0;
+}
+
+.box .overlap {
+    position: relative;
+    height: 3009px;
+}
+
+.box .desktop-wrapper {
+    position: absolute;
+    width: 1440px;
+    height: 3009px;
+    top: 0;
+    left: 1px;
+}
+
+.box .desktop {
+    height: 3009px;
+    background-color: #ffffff;
+}
+
+.box .overlap-group {
+    position: relative;
+    width: 202px;
+    height: 51px;
+    top: 242px;
+    left: 1109px;
+    background-image: url(./img/rectangle-6.png);
+    background-size: 100% 100%;
+    background-color: #d5cdcd;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.box .text-wrapper {
+    position: absolute;
+    width: 132px;
+    top: 15px;
+    left: 46px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.box .frame-wrapper {
+    position: absolute;
+    width: 1441px;
+    height: 2963px;
+    top: 5px;
+    left: 0;
+}
+
+.box .group-wrapper {
+    height: 2963px;
+}
+
+.box .div-wrapper {
+    width: 1441px;
+    height: 2963px;
+}
+
+.box .div {
+    position: relative;
+    width: 1461px;
+    height: 2963px;
+}
+
+.box .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 1924px;
+    top: 1039px;
+    left: 1px;
+}
+
+.box .overlap-3 {
+    position: absolute;
+    width: 1232px;
+    height: 481px;
+    top: 1443px;
+    left: 91px;
+}
+
+.box .images {
+    position: absolute;
+    width: 531px;
+    height: 481px;
+    top: 0;
+    left: 701px;
+    object-fit: cover;
+}
+
+.box .rectangle {
+    top: 124px;
+    left: 0;
+    position: absolute;
+    width: 733px;
+    height: 254px;
+}
+
+.box .DEDAL-DES-COULEURS {
+    position: absolute;
+    width: 574px;
+    top: 160px;
+    left: 56px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .overlap-4 {
+    position: absolute;
+    width: 1440px;
+    height: 1479px;
+    top: 0;
+    left: 0;
+}
+
+.box .depositphotos {
+    position: absolute;
+    width: 527px;
+    height: 482px;
+    top: 997px;
+    left: 118px;
+    object-fit: cover;
+}
+
+.box .desktop-2 {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.box .overlap-5 {
+    position: absolute;
+    width: 1195px;
+    height: 474px;
+    top: 21px;
+    left: 118px;
+}
+
+.box .danikivanov {
+    position: absolute;
+    width: 529px;
+    height: 474px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.box .rectangle-2 {
+    top: 93px;
+    left: 462px;
+    background-color: #adf5ff;
+    position: absolute;
+    width: 733px;
+    height: 254px;
+}
+
+.box .explorez-la-magie-de {
+    position: absolute;
+    width: 673px;
+    top: 132px;
+    left: 517px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .overlap-group-2 {
+    position: absolute;
+    width: 1195px;
+    height: 491px;
+    top: 495px;
+    left: 118px;
+}
+
+.box .img {
+    position: absolute;
+    width: 535px;
+    height: 491px;
+    top: 0;
+    left: 660px;
+    object-fit: cover;
+}
+
+.box .rectangle-3 {
+    top: 131px;
+    left: 0;
+    background-color: #f76e6e;
+    position: absolute;
+    width: 733px;
+    height: 254px;
+}
+
+.box .rectangle-4 {
+    position: absolute;
+    width: 733px;
+    height: 254px;
+    top: 1125px;
+    left: 590px;
+    background-color: #ce79ec;
+}
+
+.box .l-veil-automnal-les {
+    position: absolute;
+    width: 705px;
+    top: 665px;
+    left: 146px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .fen-tre-de-l-me-un {
+    position: absolute;
+    width: 588px;
+    top: 1152px;
+    left: 675px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .overlap-6 {
+    position: absolute;
+    width: 1440px;
+    height: 49px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+}
+
+.box .text-wrapper-2 {
+    position: absolute;
+    width: 311px;
+    top: 0;
+    left: 18px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.box .GALERIE-DEDAL-DES {
+    position: absolute;
+    width: 695px;
+    height: 97px;
+    top: 85px;
+    left: 373px;
+    font-family: "Playfair Display-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .images-2 {
+    position: absolute;
+    width: 1184px;
+    height: 531px;
+    top: 340px;
+    left: 129px;
+    object-fit: cover;
+}
+
+.box .l-treinte {
+    position: absolute;
+    width: 1084px;
+    top: 903px;
+    left: 162px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .overlap-7 {
+    position: absolute;
+    width: 202px;
+    height: 51px;
+    top: 236px;
+    left: 129px;
+    background-color: #d5cdcd;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.box .text-wrapper-3 {
+    position: absolute;
+    width: 132px;
+    top: 16px;
+    left: 35px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.box .overlap-8 {
+    position: absolute;
+    width: 202px;
+    height: 51px;
+    top: 236px;
+    left: 375px;
+    background-color: #d5cdcd;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.box .overlap-9 {
+    position: absolute;
+    width: 202px;
+    height: 51px;
+    top: 236px;
+    left: 621px;
+    background-color: #d5cdcd;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.box .overlap-10 {
+    position: absolute;
+    width: 202px;
+    height: 51px;
+    top: 236px;
+    left: 867px;
+    background-color: #d5cdcd;
+    box-shadow: 0px 4px 4px #00000040;
+}
+

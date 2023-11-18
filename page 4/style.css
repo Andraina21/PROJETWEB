@@ -1,0 +1,314 @@
+.box {
+    width: 100%;
+    max-width: 695px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.box .group {
+    position: fixed;
+    width: 430px;
+    height: 932px;
+    top: 0;
+    left: 0;
+}
+
+.box .overlap-wrapper {
+    width: 434px;
+    height: 932px;
+}
+
+.box .overlap {
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.box .div-wrapper {
+    position: absolute;
+    width: 430px;
+    height: 932px;
+    top: 0;
+    left: 0;
+}
+
+.box .overlap-group {
+    position: relative;
+    height: 932px;
+}
+
+.box .iphone-pro-max {
+    position: relative;
+    height: 932px;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.box .div {
+    position: absolute;
+    width: 361px;
+    height: 94px;
+    top: 683px;
+    left: 35px;
+}
+
+.box .depositphotos {
+    position: absolute;
+    width: 156px;
+    height: 94px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.box .rectangle {
+    position: absolute;
+    width: 214px;
+    height: 49px;
+    top: 27px;
+    left: 147px;
+    background-color: #ce79ec;
+}
+
+.box .overlap-2 {
+    position: absolute;
+    width: 378px;
+    height: 123px;
+    top: 804px;
+    left: 35px;
+}
+
+.box .images {
+    position: absolute;
+    width: 156px;
+    height: 94px;
+    top: 0;
+    left: 205px;
+    object-fit: cover;
+}
+
+.box .rectangle-2 {
+    position: absolute;
+    width: 214px;
+    height: 49px;
+    top: 22px;
+    left: 0;
+    background-color: #f3f668;
+}
+
+.box .DEDAL-DES-COULEURS {
+    position: absolute;
+    width: 173px;
+    top: 31px;
+    left: 29px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .text-wrapper {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9px;
+    letter-spacing: 0;
+}
+
+.box .span {
+    font-family: "Montserrat-Regular", Helvetica;
+}
+
+.box .text-wrapper-2 {
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 7px;
+}
+
+.box .tel {
+    position: absolute;
+    width: 134px;
+    top: 93px;
+    left: 244px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .l-veil-automnal-les-wrapper {
+    position: absolute;
+    width: 230px;
+    height: 49px;
+    top: 594px;
+    left: 35px;
+    background-color: #f76e6e;
+}
+
+.box .l-veil-automnal-les {
+    position: absolute;
+    width: 200px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .img {
+    position: absolute;
+    width: 217px;
+    height: 49px;
+    top: 485px;
+    left: 179px;
+}
+
+.box .overlap-3 {
+    position: absolute;
+    width: 695px;
+    height: 121px;
+    top: 0;
+    left: -133px;
+}
+
+.box .rectangle-3 {
+    position: absolute;
+    width: 430px;
+    height: 26px;
+    top: 0;
+    left: 133px;
+    background-color: #000000;
+}
+
+.box .text-wrapper-3 {
+    position: absolute;
+    width: 311px;
+    top: -1px;
+    left: 18px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .rectangle-4 {
+    position: absolute;
+    width: 45px;
+    height: 7px;
+    top: 70px;
+    left: 479px;
+    background-color: #d9d9d9;
+}
+
+.box .rectangle-5 {
+    position: absolute;
+    width: 45px;
+    height: 6px;
+    top: 99px;
+    left: 479px;
+    background-color: #d9d9d9;
+}
+
+.box .rectangle-6 {
+    position: absolute;
+    width: 45px;
+    height: 7px;
+    top: 85px;
+    left: 479px;
+    background-color: #d9d9d9;
+}
+
+.box .GALERIE-DEDAL-DES {
+    position: absolute;
+    width: 695px;
+    height: 97px;
+    top: 24px;
+    left: 0;
+    font-family: "Playfair Display-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .l-treinte {
+    position: absolute;
+    width: 334px;
+    top: 380px;
+    left: 52px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .images-2 {
+    position: absolute;
+    width: 358px;
+    height: 248px;
+    top: 128px;
+    left: 38px;
+    object-fit: cover;
+}
+
+.box .danikivanov {
+    position: absolute;
+    width: 154px;
+    height: 96px;
+    top: 455px;
+    left: 38px;
+    object-fit: cover;
+}
+
+.box .images-3 {
+    position: absolute;
+    width: 160px;
+    height: 93px;
+    top: 572px;
+    left: 237px;
+    object-fit: cover;
+}
+
+.box .explorez-la-magie-de {
+    position: absolute;
+    width: 202px;
+    top: 496px;
+    left: 195px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .fen-tre-de-l-me-un {
+    position: absolute;
+    width: 190px;
+    top: 718px;
+    left: 200px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}

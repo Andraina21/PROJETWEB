@@ -1,0 +1,400 @@
+.box {
+    position: relative;
+    width: 695px;
+    height: 920px;
+}
+
+.box .group {
+    position: fixed;
+    width: 721px;
+    height: 920px;
+    top: 0;
+    left: 0;
+}
+
+.box .overlap {
+    position: absolute;
+    width: 385px;
+    height: 47px;
+    top: 873px;
+    left: 143px;
+}
+
+.box .rectangle {
+    position: absolute;
+    width: 356px;
+    height: 47px;
+    top: 0;
+    left: 29px;
+    background-color: #f3f668;
+}
+
+.box .DEDAL-DES-COULEURS {
+    position: absolute;
+    width: 241px;
+    top: 5px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .tel {
+    position: absolute;
+    width: 132px;
+    top: 5px;
+    left: 241px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .overlap-group {
+    position: absolute;
+    width: 695px;
+    height: 113px;
+    top: 0;
+    left: 0;
+}
+
+.box .div {
+    position: absolute;
+    width: 430px;
+    height: 26px;
+    top: 0;
+    left: 133px;
+    background-color: #000000;
+}
+
+.box .text-wrapper {
+    position: absolute;
+    width: 311px;
+    top: 0;
+    left: 151px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .GALERIE-DEDAL-DES {
+    position: absolute;
+    width: 695px;
+    height: 97px;
+    top: 40px;
+    left: 0;
+    font-family: "Playfair Display-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .flux-naturel-julia-wrapper {
+    position: absolute;
+    width: 183px;
+    height: 49px;
+    top: 407px;
+    left: 172px;
+    background-color: #adf5ff;
+}
+
+.box .flux-naturel-julia {
+    position: absolute;
+    width: 119px;
+    top: 2px;
+    left: 40px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .overlap-group-2 {
+    position: absolute;
+    width: 240px;
+    height: 43px;
+    top: 305px;
+    left: 371px;
+}
+
+.box .rectangle-2 {
+    position: absolute;
+    width: 157px;
+    height: 43px;
+    top: 0;
+    left: 0;
+    background-color: #adf5ff;
+}
+
+.box .clats-d-identit {
+    position: absolute;
+    width: 240px;
+    top: 5px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .overlap-2 {
+    position: absolute;
+    width: 440px;
+    height: 453px;
+    top: 353px;
+    left: 172px;
+}
+
+.box .overlap-3 {
+    position: absolute;
+    width: 241px;
+    height: 33px;
+    top: 186px;
+    left: 199px;
+}
+
+.box .rectangle-3 {
+    position: absolute;
+    width: 157px;
+    height: 33px;
+    top: 0;
+    left: 0;
+    background-color: #f76e6e;
+}
+
+.box .uvre-de-danik-ivanov {
+    position: absolute;
+    width: 241px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .overlap-4 {
+    position: absolute;
+    width: 356px;
+    height: 339px;
+    top: 114px;
+    left: 0;
+}
+
+.box .overlap-5 {
+    position: absolute;
+    width: 356px;
+    height: 224px;
+    top: 114px;
+    left: 0;
+}
+
+.box .rectangle-4 {
+    position: absolute;
+    width: 183px;
+    height: 43px;
+    top: 53px;
+    left: 0;
+    background-color: #f76e6e;
+}
+
+.box .mind-painting-alex {
+    position: absolute;
+    width: 240px;
+    top: 60px;
+    left: 6px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .images {
+    position: absolute;
+    width: 157px;
+    height: 224px;
+    top: 0;
+    left: 199px;
+    object-fit: cover;
+}
+
+.box .overlap-6 {
+    position: absolute;
+    width: 183px;
+    height: 156px;
+    top: 0;
+    left: 0;
+}
+
+.box .text-wrapper-2 {
+    top: 66px;
+    left: 63px;
+    position: absolute;
+    width: 71px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .depositphotos {
+    position: absolute;
+    width: 183px;
+    height: 156px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.box .img {
+    position: absolute;
+    width: 185px;
+    height: 118px;
+    top: 221px;
+    left: 0;
+    object-fit: cover;
+}
+
+.box .danikivanov {
+    position: absolute;
+    width: 157px;
+    height: 181px;
+    top: 0;
+    left: 199px;
+    object-fit: cover;
+}
+
+.box .overlap-7 {
+    position: absolute;
+    width: 365px;
+    height: 41px;
+    top: 816px;
+    left: 163px;
+}
+
+.box .rectangle-5 {
+    position: absolute;
+    width: 183px;
+    height: 33px;
+    top: 0;
+    left: 9px;
+    background-color: #ce79ec;
+}
+
+.box .rectangle-6 {
+    position: absolute;
+    width: 157px;
+    height: 41px;
+    top: 0;
+    left: 208px;
+    background-color: #ce79ec;
+}
+
+.box .quilibre-vertical {
+    position: absolute;
+    top: 3px;
+    left: 218px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .fen-tre-de-l-me-alex {
+    position: absolute;
+    width: 217px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .overlap-8 {
+    position: absolute;
+    width: 183px;
+    height: 267px;
+    top: 126px;
+    left: 172px;
+}
+
+.box .text-wrapper-3 {
+    top: 120px;
+    left: 63px;
+    position: absolute;
+    width: 71px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .depositphotos-2 {
+    position: absolute;
+    width: 183px;
+    height: 267px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.box .overlap-9 {
+    position: absolute;
+    width: 157px;
+    height: 152px;
+    top: 143px;
+    left: 371px;
+}
+
+.box .text-wrapper-4 {
+    top: 58px;
+    left: 43px;
+    position: absolute;
+    width: 71px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.box .images-2 {
+    position: absolute;
+    width: 157px;
+    height: 152px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
